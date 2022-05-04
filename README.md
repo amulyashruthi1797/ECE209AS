@@ -3,7 +3,16 @@ This repo contains project details for ECE 209AS Lip Reading Project. This proje
 
 # Team Members
 1. Shweta Katti (UID:)
-2. Amulya Shruthi Tammireddi (UID: 505626283)
+2. Amulya Shruthi Tammireddi (UID: 505626283) - ashruthi1797@g.ucla.edu
 
 # Project Description 
+The project focuses on lip reading and maximizing efficiency of detection on existing video datasets. The problem statement can be found on 
 
+# Code Base
+All code changes can be found along the path https://github.com/amulyashruthi1797/ECE209AS/
+
+# Literature Survey and Previous Work 
+| Paper link                                  | Summary                                                                                      | 
+| ------------------------------------------- | -------------------------------------------------------------------------------------------- | 
+|                                             | Test1                                                                                        | 
+|                                             | Test2                                                                                        |  
