@@ -12,7 +12,7 @@ The project focuses on lip reading and maximizing efficiency of detection on exi
 All code changes can be found along the path https://github.com/amulyashruthi1797/ECE209AS/
 
 # Literature Survey and Previous Work 
-Out of the 25 papers studied, we will first start off with the implementation of these methodologies to begin with the comparitive analysis of the best architecture
+Out of the 25 papers studied, we will first start off with the implementation of these methodologies to begin with the comparitive analysis for the best architecture
 | Paper citation                                             | Methodology                                                                                      | 
 | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------- | 
 |Chung, Joon Son, et al. "Lip reading sentences in the wild." 2017 IEEE conference on computer vision and pattern recognition (CVPR). IEEE, 2017.|‘Watch, Listen, Attend and Spell’ (WLAS) network:The convolutional network is based on the VGG-M model, followed by LSTM encoder and transducer.| 
