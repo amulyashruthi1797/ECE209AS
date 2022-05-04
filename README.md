@@ -16,3 +16,11 @@ All code changes can be found along the path https://github.com/amulyashruthi179
 | ------------------------------------------- | -------------------------------------------------------------------------------------------- | 
 |                                             | Test1                                                                                        | 
 |                                             | Test2                                                                                        |  
+
+# Work Done
+1. Literature survey was completed for around 25 papers. Primary architectures that can be chosen for the detection were shortlisted. Also publicly available datasets 
+ for the same were chosen.
+2.
+
+# Upcoming Targets
+1.
