@@ -13,8 +13,8 @@ All code changes can be found along the path https://github.com/amulyashruthi179
 
 # Literature Survey and Previous Work 
 Out of the 25 papers studied, we will first start off with the implementation of these methodologies to begin with the comparitive analysis for the best architecture
-| Paper citation                                             | Methodology                                                                                      | 
-| ---------------------------------------------------------- | -------------------------------------------------------------------------------------------- | 
+| Paper citation                                     | Architecture                 | Dataset  | Preprocessing | Pre-trained weights | Word Error Rate|
+| -------------------------------------------------- | -----------------------------|----------|---------------|---------------------|----------------|
 |Chung, Joon Son, et al. "Lip reading sentences in the wild." 2017 IEEE conference on computer vision and pattern recognition (CVPR). IEEE, 2017.|‘Watch, Listen, Attend and Spell’ (WLAS) network:The convolutional network is based on the VGG-M model, followed by LSTM encoder and transducer.| 
 |Assael, Yannis M., et al. "Lipnet: End-to-end sentence-level lipreading." arXiv preprint arXiv:1611.01599 (2016).|LipNet - CNN+BiGRU+CTC loss |
 |Afouras, Triantafyllos, Joon Son Chung, and Andrew Zisserman. "The conversation: Deep audio-visual speech enhancement." arXiv preprint arXiv:1804.04121 (2018).| The network consists of a 3D convolution layer, followed by a 18-layer ResNet. |
