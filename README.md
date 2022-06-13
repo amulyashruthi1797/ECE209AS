@@ -20,8 +20,13 @@ All code changes can be found along the path https://github.com/amulyashruthi179
 3. Utilized various metrics to understand which of the implemented models perform the best given a particular dataset.
 
 
-# Literature Survey and Previous Work 
-Out of the 25 papers studied, we will first start off with the implementation of these methodologies to begin with the comparitive analysis for the best architecture
+# Literature Survey
+The following excel sheet link consists of our entire literature review conducted for ~20 research papers of the various models available:
+https://docs.google.com/spreadsheets/d/137hSvHNE2dYTGoN9PBO9bHsO_sFK0LwsScMN_iWpnRs/edit?usp=sharing
+
+
+# Models chosen and Summary of Results
+Amongst all the papers surveyed, a mix of state of art models and relatively new models were chosen for implementation and testing on the LRW dataset
 | Paper citation                | Architecture         | Dataset  | Preprocessing | Pre-trained weights | Word Error Rate|
 | -------------------------------------------------- | -----------------------------|----------|---------------|---------------------|----------------|
 |Assael, Yannis M., et al. "Lipnet: End-to-end sentence-level lipreading." arXiv preprint arXiv:1611.01599 (2016).|LipNet - CNN+BiGRU+CTC loss | GRID Corpus |D-lib for face detection, data augmentation | Weights available online | 26.3% |
